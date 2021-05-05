@@ -12,6 +12,12 @@ https://user-images.githubusercontent.com/68494604/117101673-610dee00-ad94-11eb-
 
 ## To make it responsive I made an individual phones.css file and added CSS like positioning and designing according to phone width. By differently style contact::before, contact-box, contact-box input, contact-box form, and contact-box label with the help of flexbox and CSS tools. Also used CSS variable too for a better understanding of code.
 
+
+
+![115010236-caec5380-9eca-11eb-9764-01918a32415b](https://user-images.githubusercontent.com/68494604/117102106-3a9c8280-ad95-11eb-8da8-ff461c255024.png)
+
+
+
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
   
